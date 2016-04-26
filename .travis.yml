@@ -1,0 +1,7 @@
+deploy:
+  provider: openshift
+  user: ricardo220893@gmail.com
+  password: Metallica@83
+  app: testesenacads
+  domain:g5senacads
+  on: master
